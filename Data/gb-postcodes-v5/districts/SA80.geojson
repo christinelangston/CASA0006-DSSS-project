@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": { "type": "Polygon", "coordinates": [ [ [ -3.922381288598455, 51.64743894511146 ], [ -3.92483177813851, 51.647449594193219 ], [ -3.923193042776905, 51.648616680322121 ], [ -3.922381288598455, 51.64743894511146 ] ] ] }, "properties": {"district": "SA80", "mapit_code": "SA80"}}]}
